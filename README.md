@@ -89,6 +89,7 @@ prompt engineering plays a crucial role in optimizing AI interactions. It helps 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague prompt; Write a story.
 Improved prompt; Write a short story about a time traveler who accidentally changes history and has to fix the timeline. Set it in a futuristic city and include a twist ending.
 The improved prompt is much more effective because it provides clear direction on the story’s plot (time traveler, changes history, fixes timeline), setting (futuristic city), and even a desired outcome (twist ending). This level of specificity guides the AI in creating a structured and engaging narrative.
